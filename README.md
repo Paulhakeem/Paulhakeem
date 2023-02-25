@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paulhakeem
-- 👀 I’m interested in website development and UI/UX design
-- 🌱 I’m currently learning programming
+- 👀 I’m a website development and UI designer
+- 🌱 I’m currently learning javaScript, Vue and Firebase
 - 💞️ I’m looking to collaborate on website development
 - 📫 How to reach me: Facebook @paulnyamawi, Instagram: @coderpaul18, Linkedin: @paulnyamawi
 
