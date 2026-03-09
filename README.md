@@ -1,6 +1,12 @@
 # Hi! 👋 I'm Paul
 ## Full-Stack Web Developer || Graphic Designer
-
+Passionate about web development, I focus on building accessible, responsive user experiences with **Vue.js** and **Nuxt.js**.  
+I combine visual craft with practical engineering to ship polished products that balance aesthetics and performance.  
+My workflow emphasizes:
+📌Clean, modular code
+📌 UI/UX best practices
+📌Scalable architecture
+📌Attention to detail in both design and functionality
 
 
 # 💻 Tech Stack:
