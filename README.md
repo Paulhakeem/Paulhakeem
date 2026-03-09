@@ -1,4 +1,4 @@
-**Hi! 👋 I'm Paul**
+# Hi! 👋 I'm Paul
 Full-Stack Web Developer || Graphic Designer
 
 
