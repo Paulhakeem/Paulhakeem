@@ -1,5 +1,6 @@
 # Hi! 👋 I'm Paul
-Full-Stack Web Developer || Graphic Designer
+## Full-Stack Web Developer || Graphic Designer
+
 
 
 # 💻 Tech Stack:
